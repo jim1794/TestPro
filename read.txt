@@ -1,0 +1,1 @@
+test new repo in c:/gitTest folder
